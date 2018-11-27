@@ -10,7 +10,7 @@
 | 3 | 0 | 0 | 3 |
 
 ** Course Objectives
-- To know what is software and the usage of different types of software
+
 - To know the Quality Metrics of various Software
 - To know the methodologies in making Software. 
 - To understand automation methods in software testing.
